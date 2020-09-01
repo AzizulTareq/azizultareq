@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### I'm a Computer Science & Engineering student at North South University, Dhaka, Bangladesh. 
+### I'm a Computer Science & Engineering student (BS in CSE) at North South University, Dhaka, Bangladesh. 
 ### Most-loved languages : C++, Javascript, Python.
 
 - 🔭 I’m currently working on Javascript, Nodejs, React, graphQL etc.

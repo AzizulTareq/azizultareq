@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student at North South University, Dhaka, Bangladesh. 
+Most-loved languages : C++, Javascript, Python.
 
 - 🔭 I’m currently working on Javascript, Nodejs, React, graphQL etc.
 - 🌱 I’m currently learning Python

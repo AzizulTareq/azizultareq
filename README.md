@@ -1,4 +1,5 @@
-### Hi there! 👋
+### Hello World! 👋
+![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
 
 ### I'm a Computer Science & Engineering student (BS in CSE) at North South University, Dhaka, Bangladesh. Most-loved languages : C++, Javascript, Python.
 ### 

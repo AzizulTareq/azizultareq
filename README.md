@@ -5,7 +5,7 @@
 ### I'm Aziul Hakim Tareq, An aspirant full-stack software engineer from Dhaka, Bangladesh
 ### 
 
-- 🔭 I’m currently working on Javascript, Nodejs, React, MongoDB etc.
-- 🌱 I’m currently learning Docker
+- 🔭 I’m currently working on Javascript, Nodejs, React, Nextjs, MongoDB etc.
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/azizultareq/), [facebook](https://www.facebook.com/Azizul.tareq/), [Tareqtagram](https://www.instagram.com/_tareq55/) 
 

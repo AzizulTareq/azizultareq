@@ -1,8 +1,5 @@
 ### Hello World! 👋
 ![](https://komarev.com/ghpvc/?username=AzizulTareq&color=green)
-![MorphingShapes_615x400](https://user-images.githubusercontent.com/33356559/92105146-384be800-ee04-11ea-8427-68bbd087037f.gif)
-
-### I'm Aziul Hakim Tareq, An aspirant full-stack software engineer from Dhaka, Bangladesh
-###
+Hi there 👋 I'm [Your Name], a passionate and results-driven Full-Stack Software Engineer with over 4 years of professional experience in designing, developing, and deploying robust, scalable, and user-centric web applications and services. I specialize in building end-to-end systems — from crafting elegant frontends to architecting high-performance backends — and taking products from zero to production with clean code, intuitive UX, and bulletproof deployments.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/azizultareq/), [facebook](https://www.facebook.com/Azizul.tareq/), [Tareqtagram](https://www.instagram.com/_tareq55/) 
 
